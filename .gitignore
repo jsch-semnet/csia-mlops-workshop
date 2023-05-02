@@ -1,0 +1,13 @@
+# Data used to train the models
+data
+
+# Artifacts
+evaluation
+
+# The models
+*.pkl
+
+## Python
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
